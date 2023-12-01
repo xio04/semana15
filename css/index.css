@@ -3,3 +3,9 @@ h1{
     font-size: medium;
     color: violet;
 }
+p{
+    font-size: 20PX;
+    color: red;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-style: italic;
+}
